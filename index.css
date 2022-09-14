@@ -1,0 +1,39 @@
+body{
+    overflow-x: hidden;
+}
+.hod{
+    height:10px;
+}
+.lnm
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.list{
+    display:flex;
+    justify-content: space-between;
+}
+.remmi{
+    margin-right:8rem;
+padding-top:0rem;
+}
+#lii{
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    height:30px;
+   margin-right:0;
+    border:2px solid red;
+   justify-content: right;
+}
+.btn{
+
+
+    margin-left:30px;
+    width:80px;
+    height:20px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
